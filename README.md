@@ -1,2 +1,0 @@
-# JSlogin
-simple javascript login
