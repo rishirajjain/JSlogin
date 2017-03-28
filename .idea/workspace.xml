@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61ef96cc-e481-4d1e-872d-c2e4bfc13707" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.html" afterPath="$PROJECT_DIR$/login.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,14 +20,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
-                <marker date="1490286160140" expanded="false" signature="3269:3282" ph="..." />
+                <marker date="1490458453534" expanded="false" signature="7361:7374" ph="..." />
               </folding>
             </state>
           </provider>
@@ -48,6 +49,7 @@
       <find>.clearfix</find>
       <find>.main</find>
       <find>hidden-smal</find>
+      <find>Passwd-hidden</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -59,6 +61,7 @@
         <option value="$PROJECT_DIR$/loh.html" />
         <option value="$PROJECT_DIR$/log.html" />
         <option value="$PROJECT_DIR$/Gmail.html" />
+        <option value="$USER_HOME$/Downloads/Gmail.html" />
         <option value="$PROJECT_DIR$/login.html" />
       </list>
     </option>
@@ -88,6 +91,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -102,7 +106,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -186,16 +189,17 @@
       <updated>1490204098665</updated>
       <workItem from="1490204107217" duration="875000" />
       <workItem from="1490272045619" duration="118000" />
-      <workItem from="1490274601296" duration="9926000" />
+      <workItem from="1490274601296" duration="10757000" />
+      <workItem from="1490427823699" duration="11244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10919000" />
+    <option name="totallyTimeSpent" value="22994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="732" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -222,41 +226,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/background1.jpg" />
-    <entry file="file://$PROJECT_DIR$/loh.html">
+    <entry file="file://$PROJECT_DIR$/loh.html" />
+    <entry file="file://$PROJECT_DIR$/log.html" />
+    <entry file="file://$PROJECT_DIR$/Gmail.html" />
+    <entry file="file://$USER_HOME$/Downloads/Gmail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="96" column="12" lean-forward="false" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gmail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="651" column="2" lean-forward="true" selection-start-line="651" selection-start-column="2" selection-end-line="653" selection-end-column="3" />
+        <state relative-caret-position="81">
+          <caret line="2589" column="0" lean-forward="true" selection-start-line="2589" selection-start-column="0" selection-end-line="2589" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <marker date="1490286160140" expanded="false" signature="3269:3282" ph="..." />
+            <marker date="1490458453534" expanded="false" signature="7361:7374" ph="..." />
           </folding>
         </state>
       </provider>
